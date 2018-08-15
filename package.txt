@@ -1,7 +1,7 @@
 NAME=m4
 VERSION=1.4.18
 REVISION=2
-SRC=http://ftp.gnu.org/gnu/m4/m4-1.4.18.tar.xz
+SRC=http://mirrors.kernel.org/gnu/m4/m4-1.4.18.tar.xz
 SRCMD5=730bb15d96fffe47e148d1e09235af82
 OPTIONS=toolchain|bootstrap|release
 DEFAULTS=release
